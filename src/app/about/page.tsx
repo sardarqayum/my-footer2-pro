@@ -20,4 +20,4 @@ const Funtion =() =>{
     )
 }
 
-export default myFuntion
+export default Funtion
