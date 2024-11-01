@@ -4,7 +4,7 @@ import React from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 
-const myFuntion =() =>{
+const Funtion =() =>{
     const router = useRouter();
     return(
         <div>
